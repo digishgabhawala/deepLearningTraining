@@ -6,5 +6,5 @@
 - [ ] Try with Fashion Mnish Images
 - [ ] Try with Cifar10 color dataset 
   - [X] Try with Basic Hyperparameters
-  - [ ]Try with Different Hyperparameters
+  - [ ] Try with Different Hyperparameters
 - [X] Try with Mnist dataset which is black and white
