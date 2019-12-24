@@ -8,3 +8,4 @@
 
 - Try with Mnist dataset which is black and white
 - Try with Cifar10 color dataset
+  - Try with Different Hyperparameters
