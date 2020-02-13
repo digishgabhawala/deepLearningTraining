@@ -15,4 +15,4 @@ Content For Deep Learning Training
     - MULTI-CLASS CLASSIFICATION : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/digishgabhawala/deepLearningTraining/master?filepath=Intro%2Fmulti_classification_wines.ipynb)
 
   - Dependencies (Basics of Python, Numpy, Pandas, Matplotlib) : 
-  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/digishgabhawala/deepLearningTraining/master?filepath=dependencies.ipynb)
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/digishgabhawala/deepLearningTraining/master?filepath=dependencies%2Foverview.ipynb)
